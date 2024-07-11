@@ -2,3 +2,5 @@ Flask
 Gunicorn
 fundamentus 
 flask-cors
+html5lib
+beautifulsoup4
